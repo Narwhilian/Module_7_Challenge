@@ -1,4 +1,4 @@
-# Real_Estate_App
+# ETF_App
 
 This application that analyzes the performance of an ETF composed of four securities (GDOT, GS, PYPL, SQ) and deploys the results as a web application
 
